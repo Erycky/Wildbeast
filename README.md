@@ -1,4 +1,4 @@
-# Wildbeast
+# Flexblog
 ## FlexBlog é o projeto de conclusão do curso de FlexBox da Origamid, ministrado por André Rafael.
 ### Tecnologias abordadas:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
